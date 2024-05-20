@@ -1,8 +1,8 @@
 {
-    "name": "Jarvis",
+    "name": "À𝖑è𝖝 𝕻ì𝖐ù",
     "version":"1.0.0",
-    "description": "Jarvis Multi Device whatsappbot",
-    "logo": "https://i.imgur.com/PmfMtfa.jpeg",
+    "description": "À𝖑è𝖝 𝕻ì𝖐ù Malti Device whatsappbot",
+    "logo": "https://i.imgur.com/DRulu1a.mp4",
     "keywords": ["whatsapp"],
     "repository": "https://github.com/Loki-Xer/Jarvis",
     "website": "https://github.com/Loki-Xer/Jarvis",
@@ -12,22 +12,22 @@
         "BOT_INFO": {
             "description": "botname;ownername;ownernumber;image url",
             "required": true,
-            "value":"ᴊᴀʀᴠɪꜱ;ʟᴏᴋɪ-xᴇʀ;https://i.imgur.com/VIpl3q5.mp4"
+            "value":"À𝖑è𝖝 𝕻ì𝖐ù;À𝖑è𝖝 𝕻ì𝖐ù;https://i.imgur.com/DRulu1a.mp4"
         },
         "AUDIO_DATA": {
             "description": "audio package name",
             "required": true,
-            "value":"ʟᴏᴋɪ-xᴇʀ;ᴊᴀʀᴠɪꜱ;https://i.imgur.com/VgxJeCm.jpeg"
+            "value":"À𝖑è𝖝 𝕻ì𝖐ù;À𝖑è𝖝 𝕻ì𝖐ù;https://i.imgur.com/DRulu1a.mp4"
         },
         "WARN_COUNT": {
             "description": "warn count",
             "required": true,
-            "value":"3"
+            "value":"99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999"
         },
         "MEDIA_DATA": {
             "description": "media data that uses in list",
             "required": true,
-            "value":"ʟɪꜱᴛ ᴍᴇɴᴜ;ᴊᴀʀᴠɪꜱ-ᴍᴅ;https://i.imgur.com/ltPPMTh.jpeg"
+            "value":"ʟɪꜱᴛ ᴍᴇɴᴜ;À𝖑è𝖝 𝕻ì𝖐ù-ᴍᴅ;https://i.imgur.com/NvQ9eL5.mp4"
         },
         "HANDLER": {
             "description": "handler for bot. all so can be null or false",
@@ -54,7 +54,7 @@
         "STICKER_PACKNAME": {
             "description": "sticker package name",
             "required": true,
-            "value":"ʟᴏᴋɪ;ᴊᴀʀᴠɪꜱ"
+            "value":"À𝖑è𝖝 𝕻ì𝖐ù;À𝖑è𝖝 𝕻ì𝖐ù"
         },
         "SUDO": {
             "description": "owner number of the bot",
