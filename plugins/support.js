@@ -3,10 +3,10 @@ const { getJson, getBuffer, System, isPrivate, sleep } = require("../lib/");
 System({
     pattern: "help",
     fromMe: isPrivate,
-    desc: "jarvis-md support",
+    desc: "À𝖑è𝖝 𝕻ì𝖐ù support",
     type: "support"
 }, async (message) => {
-    const name = 'ɪʀᴏɴ ᴍᴀɴ 🎓', title = "ᴊᴀʀᴠɪꜱ ꜱᴜᴩᴩᴏʀᴛ 🪄", number = '4915252819677', body = "ɪʀᴏɴ ᴍᴀɴ";
+    const name = 'À𝖑è𝖝 𝕻ì𝖐ù 🎓', title = "À𝖑è𝖝 𝕻ì𝖐ù ꜱᴜᴩᴩᴏʀᴛ 🪄", number = '+918536881026', body = "ɪʀᴏɴ ᴍᴀɴ";
     const image = "https://i.imgur.com/DYuO4eT.jpeg", sourceUrl = 'https://github.com/Loki-Xer/Jarvis-md';
     const logo = await getBuffer(image);
     const vcard = `BEGIN:VCARD\nVERSION:3.0\nFN:${name}\nORG: powered by Jarvis-md;\nTEL;type=CELL;type=VOICE;waid=${number}:${number}\nEND:VCARD`;
