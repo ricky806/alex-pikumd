@@ -16,7 +16,7 @@ jarvis md is Multi Device whatsapp bot
 
 3. Now Deploy
     <br>
-<a href='https://jarvis.lokiser.xyz/heroku.html' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://github.com/ricky806/alex-pikumd/heroku.html' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 #### DEPLOY TO RAILWAY
