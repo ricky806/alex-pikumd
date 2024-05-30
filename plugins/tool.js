@@ -21,7 +21,7 @@ System({
 	const start = new Date().getTime();
 	const ping = await message.send("*𝆺𝅥 running 𝆺𝅥*");
 	const end = new Date().getTime();
-	return await ping.edit("*☇À𝖑è𝖝_𝕻ì𝖐ù_ꜱᴩᷨᴇͦᴇͭᴅ ☁ :* " + (end - start) + " *ᴍꜱ* ");
+	return await ping.edit("*☇ꜱᴩᷨᴇͦᴇͭᴅ ☁ :* " + (end - start) + " *ᴍꜱ* ");
 })
 
 System({
