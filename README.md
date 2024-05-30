@@ -27,21 +27,8 @@ jarvis md is Multi Device whatsapp bot
 
 2. Now Deploy
     <br>
-<a href='https://jarvis.lokiser.xyz/railway.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+<a href='https://github.com/ricky806/alex-pikumd.git/railway.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
-#### DEPLOY TO KOYEB 
-
-1. If You don't have a account in koyeb. Create a account.
-    <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-3. Get [DATABASE_URL](https://github.com/Loki-Xer/jarvis-md/wiki/Data-base-url) and copy it
-
-4. Get [Koyeb api key](https://app.koyeb.com/account/api)
-
-2. Now Deploy
-    <br>
-<a href='https://jarvis.lokiser.xyz/koyeb.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 #### DEPLOY TO RENDER 
 
@@ -53,7 +40,7 @@ jarvis md is Multi Device whatsapp bot
 
 2. Now Deploy
     <br>
-<a href='https://jarvis.lokiser.xyz/render.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+<a href='https://github.com/ricky806/alex-pikumd.git/render.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
 <details close>
     
@@ -73,22 +60,18 @@ jarvis md is Multi Device whatsapp bot
 
 2. Now Deploy
     <br>
-<a href='https://jarvis.lokiser.xyz/replit.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<a href='https://github.com/ricky806/alex-pikumd.git/replit.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 #### THANKS TO
-- [INRL ❤️](https://github.com/inrl-official) <br>
+- [À𝖑è𝖝 𝕻ì𝖐ù ❤️](https://github.com/ricky806/alex-pikumd.git) <br>
 
-#### JARVIS SUPPORT 
+#### À𝖑è𝖝 𝕻ì𝖐ù SUPPORT 
 
 
 <details close>
 <summary>Read More</summary>
     <br>
-<a href="https://whatsapp.com/channel/0029Va9dOax4o7qDb6pVvp34"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+<a href="https://whatsapp.com/channel/0029VaYESUGJkK7F76XsDj3L"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
     <br>
 <br>
-<a href="https://chat.whatsapp.com/HCRUrl9kCvEL6v7OhmG5BR"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-    <br>
-<br>
-<a href='https://github.com/IRON-M4N/Jarvis-MD-Plugins' target="_blank"><img alt='jarvis-md' src='https://img.shields.io/badge/EXPLUGIN-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
+<a href="https://Wa.me/+918536881026/?text=𝄟⑅⃝≛HELLOW_À𝖑è𝖝_𝕻ì𝖐ù_SIR⑅⃝≛࿐"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a
